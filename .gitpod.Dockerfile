@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full-vnc
+FROM gitpod/workspace-dotnet
 USER root
 
 # Install dotnet core 2.2
